@@ -1,1 +1,1 @@
-This is the new practice branch.create a new controller called store which will interact with the paying customers.The display will be same as product/show for this.
+Again this is new.This is the new practice branch.create a new controller called store which will interact with the paying customers.The display will be same as product/show for this.
